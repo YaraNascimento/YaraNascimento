@@ -20,7 +20,7 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Yara-tacy" height="100" style="border-radius:90px;" src="https://scontent.frec36-1.fna.fbcdn.net/v/t39.30808-6/180821566_2934216033561956_5832769939814576005_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_ohc=LRClc0jBlScAX8U231H&_nc_ht=scontent.frec36-1.fna&oh=00_AT_hRVByApKvcaToEfmpboOzQfFC4aqr-b4ck5M-qP4ivQ&oe=626161FF">
+ 
 </div>
 
 ##
