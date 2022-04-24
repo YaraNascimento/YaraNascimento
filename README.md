@@ -6,6 +6,8 @@
 - 📫 Contrate-me por email: yara.tacy.barbosa.29@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Diversões: Aprender sempre coisas novas e viajar 
+- Segui os passos da Rafaella Ballerini 
+- Link do GitHub da Rafa:  https://github.com/rafaballerini/PerfilGithub
 
 <div align="center">
   <a href="https://github.com/YaraNascimento">
